@@ -23,7 +23,7 @@ DEBUG = True
 
 #HEROKU LIVE PROJECT LINK
 #ALLOWED_HOSTS = ["studentmanagementsystem22.herokuapp.com"]
-ALLOWED_HOSTS = ["studentmanagementsystem6.herokuapp.com", "*"]
+ALLOWED_HOSTS = ["studentmanagementsystem8.herokuapp.com", "*"]
 
 MEDIA_URL="/media/"
 MEDIA_ROOT=os.path.join(BASE_DIR,"media")
